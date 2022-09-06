@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i -e 'A/word1/word2/Z' -e 'c/xx/yy/e'
